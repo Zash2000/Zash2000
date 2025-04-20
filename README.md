@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zahra Shah!
+# Hi there 👋, I'm Zahra Shah
 
 ## 🚀 About Me
 
