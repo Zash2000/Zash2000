@@ -18,10 +18,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-**Programming**: Python, R, SQL  
+**Programming**: Python, R, Stata, SQL  
 **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Tools**: Jupyter Notebook, Google Colab, Tableau, Power BI  
-**Others**: Git, GitHub, LaTeX
+**Others**: Git, GitHub
 
 ## 📈 My GitHub Stats
 ![Zash2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zash2000&show_icons=true&theme=radical)  
