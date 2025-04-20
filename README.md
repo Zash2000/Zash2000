@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Zahra Shah
 
-<!--
-**Zash2000/Zash2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I have a **BSc(Hons) in Optometry and Vision Science**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently, I am pursuing a **Master's in Health Informatics with Data Science** from the University of Leeds!
+
+🔬 With a foundation in **Optometry**, I'm passionate about **healthcare innovation**.
+
+🧠 Exploring the intersection between **healthcare and data science**.
+
+🌱 Continuously learning and applying **data analytics**, **machine learning**, and **informatics** to solve healthcare challenges.
+
+📖 Avid reader | 🎨 Painting enthusiast | 🌍 Lover of languages and cultures
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+**Programming**: Python, R, SQL  
+**Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Tools**: Jupyter Notebook, Google Colab, Tableau, Power BI  
+**Others**: Git, GitHub, LaTeX
+
+## 📈 My GitHub Stats
+![Zash2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zash2000&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zash2000&layout=compact&theme=radical)
+
+## 📌 Featured Projects
+🚧 _Projects coming soon! Currently working on applying my skills to real-world healthcare data challenges. Stay tuned!_
+
+## 🔗 Let's Connect!
+
+Reach out to me via email at zahra.shah4589@gmail.com or connect with me on [LinkedIn] (https://www.linkedin.com/in/zahra-shah-ds/). 
+
+✨ **Bridging the gap between healthcare and technology for a better tomorrow.**
