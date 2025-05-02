@@ -14,6 +14,8 @@
 
 📖 Avid reader | 🎨 Painting enthusiast | 🌍 Lover of languages and cultures
 
+![](https://komarev.com/ghpvc/?username=Zash2000&color=blue)
+
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -23,10 +25,6 @@
 **Tools**: Jupyter Notebook, Google Colab, Tableau, Power BI  
 **Others**: Git, GitHub
 
-## 📈 My GitHub Stats
-![Zash2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zash2000&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zash2000&layout=compact&theme=radical)
-
 ## 📌 Featured Projects
 🚧 _Projects coming soon! Currently working on applying my skills to real-world healthcare data challenges. Stay tuned!_
 
@@ -35,3 +33,4 @@
 Reach out to me via email at zahra.shah4589@gmail.com or connect with me on [LinkedIn] (https://www.linkedin.com/in/zahra-shah-ds/). 
 
 ✨ **Bridging the gap between healthcare and technology for a better tomorrow.**
+
