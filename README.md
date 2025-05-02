@@ -12,7 +12,7 @@
 
 🌱 Continuously learning and applying **data analytics**, **machine learning**, and **informatics** to solve healthcare challenges.
 
-📖 Avid reader | 🎨 Painting enthusiast | 🌍 Lover of languages and cultures
+📖 Avid reader | 🎨 Enjoy painting | 🌍 Lover of languages and cultures
 
 ![](https://komarev.com/ghpvc/?username=Zash2000&color=blue)
 
