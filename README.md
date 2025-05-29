@@ -20,13 +20,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-**Programming**: Python, R, Stata, SQL  
+**Programming**: Python, R, Stata  
 **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Tools**: Jupyter Notebook, Google Colab, Tableau, Power BI  
 **Others**: Git, GitHub
 
 ## 📌 Featured Projects
-🚧 _Projects coming soon! Currently working on applying my skills to real-world healthcare data challenges. Stay tuned!_
+🚧 Check out my 'Parkinson's Disease Classification' project involving the application of machine learning in the analysis of a 
+    real-world dataset!
 
 ## 🔗 Let's Connect!
 
