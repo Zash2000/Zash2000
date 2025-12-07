@@ -19,6 +19,7 @@
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
 **Programming**: Python, R, Stata  
 **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Tools**: Jupyter Notebook, Google Colab, Tableau, Power BI  
